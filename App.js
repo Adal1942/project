@@ -21,7 +21,7 @@ const App = () => {
       <StatusBar backgroundColor={colorGithub} barStyle= "light-content"/>
       <View style={style.content}>
         <Image 
-        accessibilityLabel="Adauto no shopping com segurando um milk-shake"
+        accessibilityLabel="Adauto no shopping segurando um milk-shake"
         style={style.avatar} 
         source={{uri: imageProfileGithub}}/>
 
@@ -36,6 +36,332 @@ const App = () => {
         <Text
         accessibilityLabel="Descrição: Estudando e inventando novas coisas com programação."
         style={[style.defaultText, style.description]}>Estudando e inventando novas coisas com programação.</Text>
+
+        <View style={style.box}>
+          <View> 
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxRed}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxBlack}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+          <View>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+            <Text style={style.boxColor}></Text>
+          </View>
+        </View>
 
         <Pressable onPress={handlePressGoToGithub}>
           <View style={style.button}>
@@ -91,5 +417,31 @@ const style = StyleSheet.create({
   textButton:{
     fontWeight: 'bold',
     fontSize: 16,
+  },
+  box:{
+    flexDirection: 'row',
+    padding: 20,
+  },
+  boxColor:{
+    width: 10,
+    height: 10,
+    fontSize: 10,
+    color: 'white',
+    backgroundColor: 'white',
+    borderRadius: 4,
+  },
+  boxBlack: {
+    width: 10,
+    height: 10,
+    fontSize: 10,
+    backgroundColor: 'black',
+    borderRadius: 2,
+  },
+  boxRed: {
+    width: 10,
+    height: 10,
+    fontSize: 10,
+    backgroundColor: 'red',
+    borderRadius: 2,
   },
 });
