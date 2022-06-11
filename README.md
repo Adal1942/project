@@ -2,7 +2,8 @@
 # Introdução ao React Native
 
 
-![photo1654969952](https://user-images.githubusercontent.com/65043062/173199320-96146ff1-67cb-4364-bb8b-12f5c18e066e.jpeg)
+![photo1654977818](https://user-images.githubusercontent.com/65043062/173203257-d49909d7-b9b1-488d-8cfa-46d00c483db4.jpeg)
+
 
 
 # Conteúdo
